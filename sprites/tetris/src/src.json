@@ -1,0 +1,19 @@
+{
+    "sprites": [
+        {
+            "type": "instruction_palettes",
+            "src": ["block_grey.png", "block_red.png", "block_blue.png"],
+            "name": "tetris_block"
+        },
+        {
+            "type": "instruction",
+            "src": "next_background.png",
+            "name": "next_background"
+        },
+        {
+            "type": "instruction",
+            "src": "field_background.png",
+            "name": "field_background"
+        }
+    ]
+}

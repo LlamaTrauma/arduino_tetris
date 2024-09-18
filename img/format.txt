@@ -1,0 +1,11 @@
+1 - number of windows
+window:
+	1 			    - y offset
+	1 			    - number of groups
+	group count * 2 - run data
+group:
+	1             - x offset
+	1			  - number of runs
+run:
+	1 - repeat
+	1 - color

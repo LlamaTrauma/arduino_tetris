@@ -1,0 +1,27 @@
+{
+    "sprites": [
+        {
+            "type": "instruction",
+            "src": "test_sprite.png",
+            "name": "test_sprite"
+        },
+        {
+            "type": "instruction",
+            "src": "wario_thumbs_up.png",
+            "name": "wario_thumbs_up",
+            "transparent": 1
+        },
+        {
+            "type": "font",
+            "src": "fontmono12.h",
+            "name": "fontmono12",
+            "chars": "A-Z0-9 "
+        },
+        {
+            "type": "font",
+            "src": "fontmono9.h",
+            "name": "fontmono9",
+            "chars": "0-9"
+        }
+    ]
+}

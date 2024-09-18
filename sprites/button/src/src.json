@@ -1,0 +1,39 @@
+{
+    "sprites": [
+        {
+            "type": "instruction",
+            "src": "button_a.png",
+            "name": "button_a"
+        },
+        {
+            "type": "instruction",
+            "src": "button_b.png",
+            "name": "button_b"
+        },
+        {
+            "type": "instruction",
+            "src": "button_start.png",
+            "name": "button_start"
+        },
+        {
+            "type": "instruction",
+            "src": "button_left.png",
+            "name": "button_left"
+        },
+        {
+            "type": "instruction",
+            "src": "button_right.png",
+            "name": "button_right"
+        },
+        {
+            "type": "instruction",
+            "src": "button_up.png",
+            "name": "button_up"
+        },
+        {
+            "type": "instruction",
+            "src": "button_down.png",
+            "name": "button_down"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "sprites": [
+        {
+            "type": "instruction_palettes",
+            "src": ["button_wide_default.png", "button_wide_selected.png"],
+            "name": "button_wide"
+        },
+        {
+            "type": "instruction_palettes",
+            "src": ["button_small_default.png", "button_small_selected.png"],
+            "name": "button_small"
+        }
+    ]
+}
